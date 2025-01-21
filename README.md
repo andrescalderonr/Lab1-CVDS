@@ -15,6 +15,8 @@ Parte 1:
 ![imagen](ASSETS/Punto%202.png)
 
 3. Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
+
+
 Git add: Se encarga de añadir o modificar un archivo en el área de preparación del git.  Esto se encarga de saber que archivos vas a realizar el commit.
 
 La forma de utilizar el git add es: git add [nombre_archivo], lo que se hace es que toma el archivo que se está buscando y ese archivo se guarda en el área de preparación para que se tenga en cuenta para el siguiente commit.
